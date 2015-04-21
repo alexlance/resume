@@ -12,20 +12,14 @@ more about the role. $JOB_REASON
 #### Why me?
 
 My experience centers around Linux and application development and
-**deployment**.  I eat, breathe and sleep all things Linux and Dev-Ops, and
+**deployment**.  I specialise in **all things Linux and DevOps**, and
 utilize the diversity of the Open Source eco-system daily.
 
 *Eg: this resume was written in plaintext markdown using vim, templated lightly
 with envsubst/gettext, pushed through a pdf converter gimli, and stored in git
-for version control. All open source.*
-
+for version control. All open source. See https://github.com/alexlance/resume*
 
 ```bash
-git clone https://github.com/alexlance/resume && cd resume
-MY_EMAIL="${MY_EMAIL}"
-JOB_TITLE="${JOB_TITLE}"
-JOB_REASON="..."
-DATE=$(date "+%A %D")
 envsubst < resume.md.tpl > resume.md
 gimli -file resume.md && rm resume.md
 ```
@@ -33,17 +27,17 @@ gimli -file resume.md && rm resume.md
 
 #### Look what I can do!
 
-Here's some buzzwords of stuff that I can do - and more importantly **enjoy**
-doing:
+Here's some things that I can do - and more importantly **enjoy**:
 
->Devops, Linux, Jenkins, Ansible, AWS, Cloudformation, Packer, Terraform, Git,
+>DevOps, Linux, Jenkins, Ansible, AWS, Cloudformation, Packer, Terraform, Git,
 ssh, Docker, Microservices fig/docker-compose, bash, Python, PHP, postgres,
 MySQL, CSS, HTML, virtualisation, vagrant, virtualbox, vmware
 
 I've recently started writing microservices using docker containers. I even
-wrote a tool to help me wrangle all those microservices. I call it *fug*,
-because I got sick of an existing tool's (fig) limitations. For example, having
-to do sequential builds, instead of being able to build in parallel.
+wrote a tool to help me wrangle all those microservices. I call it
+[fug](https://github.com/alexlance/fug), because I got sick of an existing
+tool's (fig) limitations. For example, having to do sequential builds, instead
+of being able to build in parallel.
 
 In my spare time I've been working on an automated deploy platform, that takes
 a user's AWS security key, and deploys a fully provisioned Jenkins server into
@@ -58,7 +52,7 @@ load-balancing based on realtime performance requirements.
 
 #### Has anyone really been far even as decided to use even go want to do look more like?
 
-Before my recent fascination with Devops I was a full stack web developer. And
+Before my recent fascination with DevOps I was a full stack web developer. And
 in my spare time I am/was the lead developer for an open source project,
 allocPSA, which I still run as a low maintenance SaaS business.
 
@@ -71,7 +65,7 @@ my ability to work with others and problem solve effectively.
 
 My other interests include print and product design, photography, theatre and
 film creation, and also writing. And ok, the Richmond Football Club. (Carn
-TIIIGGGES). This range of pursuits helps inform my ability to communicate and
+TIIIGES). This range of pursuits helps inform my ability to communicate and
 design clean solutions.
 
 

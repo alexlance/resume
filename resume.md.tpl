@@ -38,7 +38,7 @@ doing:
 
 >Devops, Linux, Jenkins, Ansible, AWS, Cloudformation, Packer, Terraform, Git,
 ssh, Docker, Microservices fig/docker-compose, bash, Python, PHP, postgres,
-MySQL, CSS, HTML
+MySQL, CSS, HTML, virtualisation, vagrant, virtualbox, vmware
 
 I've recently started writing microservices using docker containers. I even
 wrote a tool to help me wrangle all those microservices. I call it *fug*,

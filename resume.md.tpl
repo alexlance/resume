@@ -56,8 +56,7 @@ Uninterrupted/zero-downtime application deploys. Auto-scaling and
 load-balancing based on realtime performance requirements.
 
 
-#### Has anyone really been far even as decided to use even go want to do look
-more like?
+#### Has anyone really been far even as decided to use even go want to do look more like?
 
 Before my recent fascination with Devops I was a full stack web developer. And
 in my spare time I am/was the lead developer for an open source project,

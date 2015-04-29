@@ -40,17 +40,12 @@ tool's (fig) limitations. For example, having to do sequential builds, instead
 of being able to build in parallel.
 
 In my spare time I've been working on an automated deploy platform, that takes
-a user's AWS security key, and deploys a fully provisioned Jenkins server into
-their AWS account that monitors and iteratively deploys an application of their
-choosing into their own AWS cloud.
-
-So that when a programmer checks their code in to github, that application
-automatically goes live ten minutes later. Hands-off infrastructure creation.
-Uninterrupted/zero-downtime application deploys. Auto-scaling and
+a user's AWS security key, and their github repo, and performs all the infrastructure
+creation. Uninterrupted zero-downtime application deploys. Auto-scaling and
 load-balancing based on realtime performance requirements.
 
 
-#### Has anyone really been far even as decided to use even go want to do look more like?
+#### Apart from Linux and Devops what else floats your boat?
 
 Before my recent fascination with DevOps I was a full stack web developer. And
 in my spare time I am/was the lead developer for an open source project,
@@ -64,9 +59,8 @@ my ability to work with others and problem solve effectively.
 #### But do you eat babies in your spare time?
 
 My other interests include print and product design, photography, theatre and
-film creation, and also writing. And ok, the Richmond Football Club. (Carn
-TIIIGES). This range of pursuits helps inform my ability to communicate and
-design clean solutions.
+film creation, and also writing. And ok, the Richmond Football Club. This range
+of pursuits helps inform my ability to communicate and design clean solutions.
 
 
 Kind regards,  

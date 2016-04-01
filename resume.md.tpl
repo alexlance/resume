@@ -1,9 +1,9 @@
-﻿# Cover letter for Alex Lance $MY_EMAIL
+# Cover letter for Alex Lance $MY_EMAIL
 ### $DATE
 
 ----
 
-#### Hi there!
+#### Hi there,
 
 I am writing to apply for the position of $JOB_TITLE and would like to find out
 more about the role. $JOB_REASON
@@ -11,56 +11,55 @@ more about the role. $JOB_REASON
 
 #### Why me?
 
-My experience centers around Linux and application development and
-**deployment**.  I specialise in **all things Linux and DevOps**, and
-utilize the diversity of the Open Source eco-system daily.
+My experience centers around Linux sys-admin (18 years) and LAMP web
+application development (12 years). In recent time this has shifted into
+continuous integration, and microservices development using Docker and Amazon
+Web Services (2 years).
 
-*Eg: this resume was written in plaintext markdown using vim, templated lightly
-with envsubst/gettext, pushed through a pdf converter gimli, and stored in git
-for version control. All open source. See https://github.com/alexlance/resume*
-
-```bash
-envsubst < resume.md.tpl > resume.md
-gimli -file resume.md && rm resume.md
-```
+I've created microservices in Go, Python, Ruby, Node.js, PHP, and used AWS
+Cloudformation to create full-stack infrastructure as code, starting from DNS
+records down through to load balancers, scaling groups, etc and rolling custom
+Amazon Machine Images, the whole shebang - including the creation of the
+deployment pipelines across different environments.
 
 
-#### Look what I can do!
+#### Stuff that I can do:
 
-Here's some things that I can do - and more importantly **enjoy**:
+>Linux (Debian, Ubuntu, RedHat/CentOS, Gentoo), Amazon Web Services, DevOps,
+>Ansible, Cloudformation, Packer, Terraform, Git, Docker, Microservices, Bash,
+>Python, PHP, Postgres, MySQL, Apache, CSS, HTML, Vagrant, VirtualBox,
+>Sumologic, Splunk, Nagios, Jenkins
 
->DevOps, Linux, Jenkins, Ansible, AWS, Cloudformation, Packer, Terraform, Git,
-ssh, Docker, Microservices fig/docker-compose, bash, Python, PHP, postgres,
-MySQL, CSS, HTML, virtualisation, vagrant, virtualbox, vmware
-
-I've recently started writing microservices using docker containers. I even
-wrote a tool to help me wrangle all those microservices. I call it
-[fug](https://github.com/alexlance/fug), because I got sick of an existing
-tool's (fig) limitations. For example, having to do sequential builds, instead
-of being able to build in parallel.
-
-In my spare time I've been working on an automated deploy platform, that takes
-a user's AWS security key, and their github repo, and performs all the infrastructure
-creation. Uninterrupted zero-downtime application deploys. Auto-scaling and
-load-balancing based on realtime performance requirements.
+This word cloud doesn't really explain the usefulness that I bring to a company
+though. In my opinion, getting the job done is two-thirds of what makes a good
+employee, the other third is elevating the people around you. And I consider
+that to be something that I excel at. I have found myself assisting the people
+around me for my entire career, and I love it. That is a fundamental part of
+job-satisfaction for me - and who I am - I want to be useful and helpful. And
+that leads me to...
 
 
-#### Apart from Linux and Devops what else floats your boat?
+#### Open Source!
 
-Before my recent fascination with DevOps I was a full stack web developer. And
-in my spare time I am/was the lead developer for an open source project,
-allocPSA, which I still run as a low maintenance SaaS business.
+Before my fascination with DevOps I was a full stack web developer. And in my
+spare time I am/was the lead developer for an open source project, allocPSA
+which I still run as a low maintenance SaaS business.
 
 For the last decade or so I have provided courteous and professional technical
-support for allocPSA, and the sourceforge.net forums contain many examples of
-my ability to work with others and problem solve effectively.
+support for allocPSA, and the sourceforge.net forums contain hundreds of
+examples of my ability to work with others and problem solve efficiently and
+politely.
+
+Another passion project of mine is Stagehand.com.au which is a facility that
+I am providing for free to assist community theatre companies.
 
 
 #### But do you eat babies in your spare time?
 
-My other interests include print and product design, photography, theatre and
-film creation, and also writing. And ok, the Richmond Football Club. This range
-of pursuits helps inform my ability to communicate and design clean solutions.
+My other interests include print and product design, photography (headshots),
+theatre and film creation, and also fiction writing. And OK, the Richmond
+Football Club (carn Tigers!). I would hope this range of pursuits helps inform
+my ability to communicate and design elegant and reliable solutions.
 
 
 Kind regards,  
@@ -78,14 +77,15 @@ $MY_EMAIL
 
 ----
 
-2014-present, Melbourne IT (melbourneit.com.au)
+2014-2015, Melbourne IT (melbourneit.com.au)
 
 Melbourne IT is Australia's largest domain name registrar. They are trusted by
-over 350,000 businesses worldwide. At Melbourne IT I was tasked with developing
-the backend services that handle the purchasing of domain names by retail
-customers worldwide.
+over 350,000 businesses worldwide.
 
-Created microservices in docker containers using python, go, nodejs, php. Used
+At Melbourne IT I was tasked with developing the backend services that handle
+the purchasing of domain names by retail customers worldwide.
+
+Created microservices in docker containers using python, go, node.js, php. Used
 haproxy for loadbalancing, and AWS infrastructure creation using packer,
 ansible and cloudformation.
 
@@ -94,25 +94,27 @@ ansible and cloudformation.
 2012-2014, Digiwise (digiwise.com.au)
 
 Digiwise provides business-focused software development and consulting
-services. At Digiwise I was a web developer using PHP, MySQL, Zend, Dojo and
-JSON.  I created a dynamic Customer Relationship Management (CRM) tool,
-providing employee work orders, time sheets, invoicing, and detailed project
-management.
+services.
+
+At Digiwise I was a web developer using PHP, MySQL, Zend, Dojo and JSON.  I
+created a dynamic Customer Relationship Management (CRM) tool, providing
+employee work orders, time sheets, invoicing, and detailed project management.
 
 
 ----
 
 2001-2014, Cyber IT Solutions (cyber.com.au)
 
-Cyber is Australia’s leading Linux and open source solutions company. At Cyber
-I was technical lead and provided ongoing development and maintenance for
-allocPSA software, a web-based open source professional services tool.
+Cyber is Australia’s leading Linux and open source solutions company.
+
+At Cyber I was technical lead and provided ongoing development and maintenance
+for allocPSA software, a web-based open source professional services tool.
  
 I performed Linux system administration, installation, support and maintenance
-on Debian/Ubuntu, RedHat/CentOS and Gentoo operating systems. I installed
+on Debian/Ubuntu, RedHat/CentOS and Gentoo operating systems. I also used
 cPanel, Web Host Manager and performed OpenVZ virtualisation administration.
 
-I created and developed a number of web applications: a course designer
+Created and developed a number of web applications: a course designer
 application for a university, an online art gallery, an enrolment application,
 an online micropayment gateway, a share tracking and a fund management site.
 
@@ -127,7 +129,9 @@ for brochures, banners, animated gifs and artwork for products and websites.
 
 Pacific Brands is famous for marketing iconic brands including Bonds, Sheridan,
 Hard Yakka, Berlei, Clarks, Hush Puppies, KingGee, Superdry, Tontine, and
-Volley. At Pacific Brands I worked directly with senior architects to strict
+Volley.
+
+At Pacific Brands I worked directly with senior architects to strict
 development schedules and milestones.
 
 I developed web applications, including: a sophisticated project management
@@ -141,9 +145,11 @@ accounts-receivable, and various intranet modules based on postnuke.
 2000-2001, Verisign Australia (verisign.com.au)
 
 Verisign (now Symantec) is a global leader in providing security, storage and
-systems management solutions. At Verisign I operated as part of a team to
-deadlines, working on HTML and JavaScript for forms and validation, learning
-about PKI, Asymmetric Keys, and encryption.
+systems management solutions.
+
+At Verisign I operated as part of a team to deadlines, working on HTML and
+JavaScript for forms and validation, learning about PKI, Asymmetric Keys, and
+encryption.
 
 I also tested company web software, installed proprietary applications and
 setting up standard operating environments. Repaired computers, backed up

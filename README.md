@@ -13,6 +13,6 @@ JOB_TITLE="Dev-Ops Engineer with IBM"
 JOB_REASON="The culture at IBM is ..."
 
 # swap the vars in, generate a pdf
-# note: envsubst is in the gettext package, and gimli is a gem install
+# note: envsubst is in the gettext package, and gimli is a gem install (ruby, ruby-dev, zlib1g-dev)
 envsubst < resume.md.tpl > resume.md && gimli -file resume.md && rm resume.md
 ```

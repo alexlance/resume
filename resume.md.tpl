@@ -11,7 +11,7 @@ more about the role. $JOB_REASON
 
 #### Why me?
 
-My experience centers around Linux sys-admin (18 years) and LAMP web
+My experience centers around Linux sysadmin (16 years) and LAMP web
 application development (12 years). In recent time this has shifted into
 continuous integration, and microservices development using Docker and Amazon
 Web Services (2 years).
@@ -20,10 +20,10 @@ I've created microservices in Go, Python, Ruby, Node.js, PHP, and used AWS
 Cloudformation to create full-stack infrastructure as code, starting from DNS
 records down through to load balancers, scaling groups, etc and rolling custom
 Amazon Machine Images, the whole shebang - including the creation of the
-deployment pipelines across different environments.
+deployment pipelines to launch that infrastructure across different environments.
 
 
-#### Stuff that I can do:
+#### Stuff I can do:
 
 >Linux (Debian, Ubuntu, RedHat/CentOS, Gentoo), Amazon Web Services, DevOps,
 >Ansible, Cloudformation, Packer, Terraform, Git, Docker, Microservices, Bash,
@@ -32,16 +32,15 @@ deployment pipelines across different environments.
 
 This word cloud doesn't really explain the usefulness that I bring to a company
 though. In my opinion, getting the job done is two-thirds of what makes a good
-employee, the other third is elevating the people around you. And I consider
-that to be something that I excel at. I have found myself assisting the people
-around me for my entire career, and I love it. That is a fundamental part of
-job-satisfaction for me - and who I am - I want to be useful and helpful. And
-that leads me to...
+employee, the other third is elevating the people around you. I have found
+myself assisting the people around me for my entire career, and I love it. That
+is a fundamental part of job-satisfaction for me - and who I am - I want to be
+useful and helpful. That leads me to...
 
 
 #### Open Source!
 
-Before my fascination with DevOps I was a full stack web developer. And in my
+Before my fascination with DevOps I was a full stack web developer. In my
 spare time I am/was the lead developer for an open source project, allocPSA
 which I still run as a low maintenance SaaS business.
 
@@ -54,12 +53,12 @@ Another passion project of mine is Stagehand.com.au which is a facility that
 I am providing for free to assist community theatre companies.
 
 
-#### But do you eat babies in your spare time?
+#### Other interests...
 
-My other interests include print and product design, photography (headshots),
-theatre and film creation, and also fiction writing. And OK, the Richmond
-Football Club (carn Tigers!). I would hope this range of pursuits helps inform
-my ability to communicate and design elegant and reliable solutions.
+My other interests include print design, photography, theatre and film
+creation, and also fiction writing. And OK, the Richmond Football Club (carn
+Tigers!). I would hope this range of pursuits helps inform my ability to
+communicate and design elegant and reliable solutions.
 
 
 Kind regards,  
@@ -79,7 +78,7 @@ $MY_EMAIL
 
 2014-2015, Melbourne IT (melbourneit.com.au)
 
-Melbourne IT is Australia's largest domain name registrar. They are trusted by
+Melbourne IT is Australia's largest domain name registrar. It is trusted by
 over 350,000 businesses worldwide.
 
 At Melbourne IT I was tasked with developing the backend services that handle

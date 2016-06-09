@@ -5,44 +5,44 @@
 
 #### Hi there,
 
-I am writing to apply for the position of $JOB_TITLE and would like to find out
-more about the role. $JOB_REASON
+I am writing to apply for the position of $JOB_TITLE
+$JOB_REASON
 
 
 #### Why me?
 
-My experience centers around Linux sysadmin (16 years) and LAMP web
-application development (12 years). In recent time this has shifted into
-continuous integration, and microservices development using Docker and Amazon
-Web Services (2 years).
+My experience is in Linux sysadmin (16 years) and LAMP web application
+development (12 years). In recent time this has shifted into continuous
+delivery and microservices development using Docker and Amazon Web Services (2
+years).
 
-I've created microservices in Go, Python, Ruby, Node.js, PHP, and used AWS
-Cloudformation to create full-stack infrastructure as code, starting from DNS
-records down through to load balancers, scaling groups, etc and rolling custom
-Amazon Machine Images, the whole shebang - including the creation of the
-deployment pipelines to launch that infrastructure across different environments.
+In my most recent role, I've developed microservices in Go, Python, Ruby,
+Node.js, PHP and used AWS Cloudformation to create full-stack infrastructure
+as code for customer-facing production systems.
+
+Additionally I've assembled user-friendly deployment pipelines to launch, modify
+and rollback that infrastructure across different environments, and which also provided the
+ability for anyone on the team to perform zero-downtime deploys.
 
 
 #### Stuff I can do:
 
 >Linux (Debian, Ubuntu, RedHat/CentOS, Gentoo), Amazon Web Services, DevOps,
->Ansible, Cloudformation, Packer, Terraform, Git, Docker, Microservices, Bash,
+>Ansible, Cloudformation, Packer, Terraform, Git, Github, Docker, Microservices, Bash,
 >Python, PHP, Postgres, MySQL, Apache, CSS, HTML, Vagrant, VirtualBox,
 >Sumologic, Splunk, Nagios, Jenkins
 
-This word cloud doesn't really explain the usefulness that I bring to a company
-though. In my opinion, getting the job done is two-thirds of what makes a good
-employee, the other third is elevating the people around you. I have found
-myself assisting the people around me for my entire career, and I love it. That
-is a fundamental part of job-satisfaction for me - and who I am - I want to be
-useful and helpful. That leads me to...
+In my opinion, getting the job done is two-thirds of what makes a good
+employee, the rest is elevating the people around you. That is a fundamental
+part of job-satisfaction for me - I want to be useful and helpful. That leads
+me to...
 
 
 #### Open Source!
 
 Before my fascination with DevOps I was a full stack web developer. In my
 spare time I am/was the lead developer for an open source project, allocPSA
-which I still run as a low maintenance SaaS business.
+which still runs as a low maintenance SaaS business.
 
 For the last decade or so I have provided courteous and professional technical
 support for allocPSA, and the sourceforge.net forums contain hundreds of

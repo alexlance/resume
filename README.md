@@ -1,18 +1,24 @@
 # Resume generator
 
+### Install the markdown to PDF converter md2pdf
+
 ```bash
-#!/bin/bash
+pyenv install 3.14.3
+pyenv virtualenv 3.14.3 md2pdf
+pyenv activate md2pdf
+pip install md2pdf[cli]
+```
 
-# checkout the source
-git clone git@github.com:alexlance/resume && cd resume
 
+```bash
 # setup some vars
 DATE=$(date "+%A %D")
 MY_EMAIL="...@...com"
-JOB_TITLE="Dev-Ops Engineer with IBM"
-JOB_REASON="The culture at IBM is ..."
+JOB_TITLE="Dev-Ops Engineer with ... "
 
-# swap the vars in, generate a pdf
-# note: envsubst is in the gettext package, and gimli is a gem install (ruby, ruby-dev, zlib1g-dev)
-envsubst < resume.md.tpl > resume.md && gimli -file resume.md && rm resume.md
+# swap the vars in, note: envsubst is in the gettext package
+envsubst < resume.md.tpl > resume.md
+
+# generate the PDF from the template file
+md2pdf -i resume.md.tpl -c style.css -o resume.pdf
 ```

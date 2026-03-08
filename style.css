@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "Bitstream Vera Serif Bold";
+  src: url("https://mdn.github.io/css-examples/web-fonts/VeraSeBd.ttf");
+}
+
+body {
+  font-family: sans-serif;
+  font-family: "Bitstream Vera Serif Bold";
+  line-height:1.9;
+}
+
+h1 {
+  text-align:center;
+  font-size:3rem;
+  padding-top:60px;
+  margin-top:0px;
+  margin-bottom:0px;
+  font-weight:normal;
+  color: #333;
+}
+
+h3 {
+  margin:0;
+  float:left;
+  font-size:1rem;
+  font-weight:normal;
+}
+
+h4 {
+  margin-top:40px;
+  margin-bottom:0px;
+}
+h5 {
+  margin:0;
+  float:right;
+  font-size:1rem;
+  font-weight:normal;
+}
+a {
+  text-decoration:none;
+  color: #0b93bd;
+}
+
+h6 {
+  margin:0px;
+  font-size:1rem;
+  text-align:center;
+
+}
+hr {
+  color:#fff;
+  background-color:#fff;
+  border:0px solid #fff;
+}
+blockquote {
+  font-size:0.8rem;
+  font-weight:bold;
+  background:#eef8fb;
+  color: #0293be;
+  border-radius:10px;
+  padding:5px 20px;
+}

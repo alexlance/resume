@@ -91,15 +91,14 @@ matters.
 
 |             |           |              |           |                  |           |
 |-------------|-----------|--------------|-----------|------------------|-----------|
-| Alerting    | ★★★★      | DevOps       | **★★★★★** | Logging          | **★★★★★** |
-| AWS         | **★★★★★** | Docker       | **★★★★★** | Mob. Apps        | ★         |
-| Azure       | ★         | DNS          | **★★★★★** | GCP              | ★★        |
-| Bash        | **★★★★★** | Git          | **★★★★★** | Networking       | ★★★★      |
-| ChatOps     | ★★★★      | GitHub/Lab   | ★★★★      | PHP              | ★★★       |
-| CI/CD       | **★★★★★** | GitOps       | ★★★★      | Postgres         | ★★★★      |
-| Costing     | ★★★★      | Go           | ★★★       | Python           | **★★★★★** |
-| CSS         | **★★★★★** | HTML         | **★★★★★** | Security         | **★★★★★** |
-| Databricks  | ★★★★      | JavaScript   | ★★★★      | Terraform        | **★★★★★** |
-| Design      | ★★★       | Linux        | **★★★★★** | Windows          | ★         |
-
+| Alerting    | ★★★★      | Design       | ★★★       | JavaScript       | ★★★★      |
+| AWS         | **★★★★★** | DevOps       | **★★★★★** | Linux            | **★★★★★** |
+| Azure       | ★         | Docker       | **★★★★★** | Mob. Apps        | ★         |
+| Bash        | **★★★★★** | DNS          | **★★★★★** | Networking       | ★★★★      |
+| ChatOps     | ★★★★      | Git          | **★★★★★** | PHP              | ★★★       |
+| CI/CD       | **★★★★★** | GitHub/Lab   | ★★★★      | Postgres         | ★★★★      |
+| Cloudwatch  | **★★★★★** | GitOps       | ★★★★      | Python           | **★★★★★** |
+| Costing     | ★★★★      | Go           | ★★★       | Security         | **★★★★★** |
+| CSS         | **★★★★★** | HTML         | **★★★★★** | Terraform        | **★★★★★** |
+| Databricks  | ★★★★      | JavaScript   | ★★★★      | Windows          | ★         |
 

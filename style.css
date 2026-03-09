@@ -6,11 +6,12 @@ body {
 h1 {
   text-align:center;
   font-size:3rem;
-  padding-top:60px;
+  padding-top:20px;
   margin-top:0px;
   margin-bottom:0px;
   font-weight:normal;
   color: #333;
+  clear:both;
 }
 
 h2 {

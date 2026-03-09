@@ -47,21 +47,27 @@ Alex Lance
 >Lexer is a leading retail and marketing platform. It gives companies
 >the tools to provide bespoke customer service.
 
-At Lexer I worked as the Head of Infrastructure and over 8 years recruited a
-team of 4 to manage AWS accounts.
+**Role:** At Lexer, I served as **Head of Infrastructure** and over eight years
+built up a team of four to manage several AWS accounts. Together, we migrated
+all infrastructure to Terraform, containerized the entire application stack and
+built dozens of CI/CD deployment pipelines.
 
-Together we moved all infrastructure into Terraform. Dockerized the entire
-application stack. Became SOC 2 compliant. Was responsible for orchestrating
-penetration testing. Created CI/CD deployment pipelines. And maintained the
-stability of the Lexer platform.
+**Big data:** We architected high-volume transfers that ingested terabytes of
+client customer files daily, enforced strict controls to ensure secure transfer
+and storage, setup Databricks for team access and ETL, and administered large
+Elasticsearch clusters to perform realtime querying on that data.
 
-We architected data pipelines that ingested terabytes of private customer data,
-daily. Setup the controls to ensure all data was transferred safely and stored
-securely, and administrated colossal Elasticsearch clusters to interrogate that
-data.
+**DevOps:** We supported around twenty developers, enabling anyone to perform
+fast, reliable production deployments. Set up platform alerting and logging via
+CloudWatch through to Slack, and facilitated a self-serve permissions system
+for AWS account and server access.
 
-I implemented AWS budgeting and cost tracking. Platform alerting and logging
-through Cloudwatch and assisted with SOC2 auditing and compliance.
+**Security:** We ensured the highest level of security precautions were taken,
+including the orchestration of penetration testing and the gauntlet of yearly
+SOC 2 compliance. We facilitated all infrastructure security controls and data
+access policies, VPN connections and S3 bucket policies. We brokered SSH/SFTP
+gateway transfers with clients and provided a safety net for all security related
+matters.
 
 
 #### 2014-2015 [Melbourne IT](https://melbourneit.com.au)

@@ -13,33 +13,41 @@ h1 {
   color: #333;
 }
 
+h2 {
+  margin:0px;
+}
+
 h3 {
   margin:0;
   float:left;
-  font-size:1rem;
+  font-size:0.8rem;
   font-weight:normal;
 }
 
 h4 {
-  margin-top:40px;
+  margin-top:0px;
   margin-bottom:0px;
+  padding-bottom:0px;
 }
 h5 {
   margin:0;
   float:right;
-  font-size:1rem;
+  font-size:0.8rem;
   font-weight:normal;
 }
 a {
-  text-decoration:none;
   color: #0b93bd;
+  text-underline-offset: 2px;
 }
 
 h6 {
   margin:0px;
   font-size:1rem;
   text-align:center;
-
+  color: #ff6600;
+  color: #ffc001;
+  color: #ccc;
+  color: #0b93bd;
 }
 hr {
   color:#fff;
@@ -53,4 +61,34 @@ blockquote {
   color: #0293be;
   border-radius:10px;
   padding:5px 20px;
+}
+
+table {
+  border:1px solid #eee;
+  padding:0px;
+  border-collapse: collapse;
+}
+td, th, tr  {
+  padding:0px;
+  margin:0px;
+}
+
+td {
+  padding:0px 10px;
+  font-size:0.8rem;
+}
+
+td:nth-child(1), td:nth-child(2), td:nth-child(5), td:nth-child(6) {
+  background:#f9f9f9;
+}
+td:nth-child(1), td:nth-child(3), td:nth-child(5) {
+  white-space:pre;
+}
+td:nth-child(2), td:nth-child(4), td:nth-child(6) {
+  color: #ffc001;
+  font-weight: bold;
+  padding-left:10px;
+  padding-right:30px;
+  font-size:1rem;
+  letter-spacing: 0.1rem;
 }

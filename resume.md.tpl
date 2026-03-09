@@ -91,7 +91,7 @@ matters.
 
 |             |           |              |           |                  |           |
 |-------------|-----------|--------------|-----------|------------------|-----------|
-| Alerting    | ★★★★      | Design       | ★★★       | JavaScript       | ★★★★      |
+| Alerting    | ★★★★      | Design       | ★★★       | Lambda           | **★★★★★** |
 | AWS         | **★★★★★** | DevOps       | **★★★★★** | Linux            | **★★★★★** |
 | Azure       | ★         | Docker       | **★★★★★** | Mob. Apps        | ★         |
 | Bash        | **★★★★★** | DNS          | **★★★★★** | Networking       | ★★★★      |
@@ -99,6 +99,6 @@ matters.
 | CI/CD       | **★★★★★** | GitHub/Lab   | ★★★★      | Postgres         | ★★★★      |
 | Cloudwatch  | **★★★★★** | GitOps       | ★★★★      | Python           | **★★★★★** |
 | Costing     | ★★★★      | Go           | ★★★       | Security         | **★★★★★** |
-| CSS         | **★★★★★** | HTML         | **★★★★★** | Terraform        | **★★★★★** |
-| Databricks  | ★★★★      | JavaScript   | ★★★★      | Windows          | ★         |
+| CSS         | **★★★★★** | HTML         | **★★★★★** | SOC2 + 27001     | ★★★★      |
+| Databricks  | ★★★★      | JavaScript   | ★★★★      | Terraform        | **★★★★★** |
 

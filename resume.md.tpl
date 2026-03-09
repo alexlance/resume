@@ -89,37 +89,17 @@ matters.
 <br>
 ## Skills
 
-|              |       |              |       |              |       |
-|--------------|-------|--------------|-------|--------------|-------|
-| Alerting     | ★★★★  | DevOps       | ★★★★★ | Logging      | ★★★★★ |
-| AWS          | ★★★★★ | Docker       | ★★★★★ | Mob. Apps    | ★     |
-| Azure        | ★     | GCP          | ★★    | Networking   | ★★★★  |
-| Bash         | ★★★★★ | Git          | ★★★★★ | Oracle       | ★     |
-| ChatOps      | ★★★★  | GitHub/Lab   | ★★★★  | PHP          | ★★★   |
-| CI/CD        | ★★★★★ | GitOps       | ★★★★  | Postgres     | ★★★★  |
-| Costing      | ★★★★  | Go           | ★★★   | Python       | ★★★★★ |
-| CSS          | ★★★★★ | HTML         | ★★★★★ | Security     | ★★★★★ |
-| Databricks   | ★★★★  | JavaScript   | ★★★★  | Terraform    | ★★★★★ |
-| Design       | ★★★   | Linux        | ★★★★★ | Windows      | ★     |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|             |           |              |           |                  |           |
+|-------------|-----------|--------------|-----------|------------------|-----------|
+| Alerting    | ★★★★      | DevOps       | **★★★★★** | Logging          | **★★★★★** |
+| AWS         | **★★★★★** | Docker       | **★★★★★** | Mob. Apps        | ★         |
+| Azure       | ★         | DNS          | **★★★★★** | GCP              | ★★        |
+| Bash        | **★★★★★** | Git          | **★★★★★** | Networking       | ★★★★      |
+| ChatOps     | ★★★★      | GitHub/Lab   | ★★★★      | PHP              | ★★★       |
+| CI/CD       | **★★★★★** | GitOps       | ★★★★      | Postgres         | ★★★★      |
+| Costing     | ★★★★      | Go           | ★★★       | Python           | **★★★★★** |
+| CSS         | **★★★★★** | HTML         | **★★★★★** | Security         | **★★★★★** |
+| Databricks  | ★★★★      | JavaScript   | ★★★★      | Terraform        | **★★★★★** |
+| Design      | ★★★       | Linux        | **★★★★★** | Windows          | ★         |
 
 
